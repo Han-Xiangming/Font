@@ -1,4 +1,4 @@
-## Zenith Font Manager v24 - 终极字体批量安装工具
+## Zenith Font Manager v24
 
 **Batch Font Installation, Redefined. Your Entire Font Library, Installed in Seconds.**
 
